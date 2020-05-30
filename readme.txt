@@ -1,5 +1,5 @@
 Nbody-python
-Writen by: luisamedinam, jcmunioz and Pablo Andres Cuartas Restrepo 
+Writen by: Medina, Luisa F.; Muñoz, Juan C.; Cuartas, Pablo A.
 FACom - SEAP
 University of Antioquia - Colombia
 This simulation is written in python with the intention to simulate the migration of the two external planets 
