@@ -1,4 +1,4 @@
-nbody-python
+Nbody-python
 Writen by: luisamedinam, jcmunioz and Pablo Andres Cuartas Restrepo 
 FACom - SEAP
 University of Antioquia - Colombia
